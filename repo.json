@@ -1,0 +1,57 @@
+{
+  "name": "Choco Milky Repo",
+  "identifier": "com.chocomilky.repo",
+  "iconURL": "https://i.postimg.cc/BQSsqZHD/IMG-9702.jpg",
+  "apps": [
+    {
+      "name": "ESign no logs",
+      "bundleIdentifier": "com.chocomilky.esign",
+      "developerName": "Choco Milky",
+      "subtitle": "Version 5.0.2",
+      "version": "5.0.2",
+      "downloadURL": "https://files.catbox.moe/orukkv.ipa",
+      "localizedDescription": "ESign no logs app from the Choco Milky Repo.",
+      "tintColor": "e59aff"
+    },
+    {
+      "name": "Geode",
+      "bundleIdentifier": "com.chocomilky.geode",
+      "developerName": "Choco Milky",
+      "subtitle": "Version 1.3.2",
+      "version": "1.3.2",
+      "downloadURL": "https://files.catbox.moe/68rjdk.ipa",
+      "localizedDescription": "Geode app from the Choco Milky Repo.",
+      "tintColor": "a3d2ca"
+    },
+    {
+      "name": "ZSign",
+      "bundleIdentifier": "com.chocomilky.zsign",
+      "developerName": "Choco Milky",
+      "subtitle": "Version 1.6",
+      "version": "1.6",
+      "downloadURL": "https://files.catbox.moe/k8luls.ipa",
+      "localizedDescription": "ZSign app from the Choco Milky Repo.",
+      "tintColor": "ffb4a2"
+    },
+    {
+      "name": "Krnl",
+      "bundleIdentifier": "com.chocomilky.krnl",
+      "developerName": "Choco Milky",
+      "subtitle": "Version 2.683.774",
+      "version": "2.683.774",
+      "downloadURL": "https://files.catbox.moe/dadpb7.ipa",
+      "localizedDescription": "Krnl app from the Choco Milky Repo.",
+      "tintColor": "f2e7d5"
+    },
+    {
+      "name": "EcoSpend",
+      "bundleIdentifier": "com.chocomilky.ecospend",
+      "developerName": "Choco Milky",
+      "subtitle": "Version 2.0",
+      "version": "2.0",
+      "downloadURL": "https://files.catbox.moe/fu5ny7.ipa",
+      "localizedDescription": "An app for watching movies and entertainment.",
+      "tintColor": "b5ead7"
+    }
+  ]
+}
