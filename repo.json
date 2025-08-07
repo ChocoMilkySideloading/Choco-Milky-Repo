@@ -56,6 +56,24 @@
       "version": "6.0.2",
       "downloadURL": "https://files.catbox.moe/au2i0y.ipa",
       "tintColor": "1DB954"
+    },
+    {
+      "name": "Twitch No‑Ads",
+      "bundleIdentifier": "com.chocomilky.twitchnoads",
+      "developerName": "Choco Milky",
+      "subtitle": "Modded Twitch client with ads completely removed.",
+      "version": "1.0",
+      "downloadURL": "https://files.catbox.moe/sk6dx7.ipa",
+      "tintColor": "9146FF"
+    },
+    {
+      "name": "YTLitePlus",
+      "bundleIdentifier": "com.chocomilky.ytliteplus",
+      "developerName": "Choco Milky",
+      "subtitle": "Lightweight YouTube client with ads removed and background play.",
+      "version": "1.0",
+      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "tintColor": "FF0000"
     }
   ]
 }
